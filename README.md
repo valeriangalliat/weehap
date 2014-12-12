@@ -1,7 +1,7 @@
 WeeHap
 ======
 
-WeeChat script to draw Hap smiley in current buffer.
+> WeeChat script to draw Hap smiley in current buffer.
 
 Installation
 ------------
